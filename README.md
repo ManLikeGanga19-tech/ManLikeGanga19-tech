@@ -10,7 +10,7 @@
 ```
 
 **Senior Fullstack Engineer · DevOps · SaaS Architect**  
-📍 Nairobi, Kenya 🇰🇪 &nbsp;|&nbsp; Building production-grade platforms for Africa
+📍 Mombasa, Kenya 🇰🇪 &nbsp;|&nbsp; Building production-grade platforms for Africa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Multi-tenant+SaaS+%7C+End-to-end+ownership;Next.js+%7C+FastAPI+%7C+ASP.NET+Core+%7C+Go;M-Pesa+Daraja+%7C+KRA+eTIMS+%7C+Kubernetes;From+architecture+to+production+%E2%80%94+I+own+the+whole+stack.)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@ My focus is solving **real operational problems** for African businesses: school
 
 ```yaml
 name:         ManLikeGanga19-tech
-location:     Nairobi, Kenya 🇰🇪
+location:     Mombasa, Kenya 🇰🇪
 role:         Senior Fullstack Engineer & DevOps
 speciality:   Multi-tenant SaaS · Payment Integrations · African Fintech
 available:    Open to senior roles, consulting & SaaS co-founding
