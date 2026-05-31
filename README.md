@@ -10,7 +10,7 @@
 ```
 
 **Senior Fullstack Engineer · DevOps · SaaS Architect**  
-📍 Kenya 🇰🇪 &nbsp;|&nbsp; Building production-grade platforms for Africa
+ Kenya 🇰🇪 &nbsp;|&nbsp; Building production-grade platforms for Africa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Multi-tenant+SaaS+%7C+End-to-end+ownership;Next.js+%7C+FastAPI+%7C+ASP.NET+Core+%7C+Go;M-Pesa+Daraja+%7C+KRA+eTIMS+%7C+Kubernetes;From+architecture+to+production+%E2%80%94+I+own+the+whole+stack.)](https://git.io/typing-svg)
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 👨🏾‍💻 About Me
+##  About Me
 
 I'm a **Senior Fullstack Developer & DevOps Engineer** who designs, builds, and ships enterprise-grade SaaS products end-to-end — from schema design to containerized cloud deployment.
 
@@ -35,11 +35,11 @@ languages:    English · Swahili
 
 ---
 
-## 🏗️ Flagship Projects
+##  Flagship Projects
 
 ---
 
-### 📚 ShuleHQ — School Management System
+###  ShuleHQ — School Management System
 
 > *Multi-tenant SaaS digitizing school administration for Kenyan institutions*
 
@@ -49,21 +49,21 @@ ShuleHQ replaces fragmented spreadsheets and manual processes with a unified clo
 
 | Area | What's Built |
 |------|-------------|
-| 🏢 **Multi-Tenancy** | Complete data isolation per school; RBAC across SaaS Admin, Director, and Secretary portals |
-| 🎓 **Curriculum** | 8-4-4 (marks, exam timetables, report cards), CBC (strand/sub-strand, progress reports), IGCSE (A*–G grading) |
-| 💰 **Finance v2** | Per-class fee structures, smart invoice generation, partial payment rules, scholarships, M-Pesa STK Push |
-| 👤 **SIS** | Bio-data, guardians, emergency contacts, document uploads, discipline history |
-| 📋 **Attendance** | Session lifecycle (DRAFT → SUBMITTED → FINALIZED), bulk mark, corrections, PDF reports |
-| 🔐 **Audit Logging** | Full action trail, 90-day auto-retention, searchable log for compliance |
-| 📄 **PDF Engine** | Pure-Python invoices, receipts & report cards — zero external dependencies |
+|  **Multi-Tenancy** | Complete data isolation per school; RBAC across SaaS Admin, Director, and Secretary portals |
+|  **Curriculum** | 8-4-4 (marks, exam timetables, report cards), CBC (strand/sub-strand, progress reports), IGCSE (A*–G grading) |
+|  **Finance v2** | Per-class fee structures, smart invoice generation, partial payment rules, scholarships, M-Pesa STK Push |
+|  **SIS** | Bio-data, guardians, emergency contacts, document uploads, discipline history |
+|  **Attendance** | Session lifecycle (DRAFT → SUBMITTED → FINALIZED), bulk mark, corrections, PDF reports |
+|  **Audit Logging** | Full action trail, 90-day auto-retention, searchable log for compliance |
+|  **PDF Engine** | Pure-Python invoices, receipts & report cards — zero external dependencies |
 
 **Performance:** `381+ pytest tests` · `2,000 req/min rate limiting per tenant` · `Async task handling` · `DB connection pooling` · `Redis-backed token blacklist`
 
-> ✅ **Live in production** — serving multiple Kenyan schools
+>  **Live in production** — serving multiple Kenyan schools
 
 ---
 
-### 🎯 Tusome — CBC E-Learning Platform
+###  Tusome — CBC E-Learning Platform
 
 > *Subscription-based learning platform for Kenyan students (Grades 4–12)*
 
@@ -72,11 +72,11 @@ Tusome delivers CBC-aligned structured lessons, interactive quizzes, and a gamif
 **Stack:** `Turborepo + pnpm workspaces` `Next.js 15` `React 19` `TypeScript` `Tailwind CSS 4` `Shadcn/UI` `FastAPI (Python 3.12)` `SQLAlchemy (async)` `PostgreSQL` `Redis` `M-Pesa Daraja`
 
 **Student Experience:**
-- 📖 Grade-filtered lesson browser with Markdown rendering and completion tracking
-- ✅ Auto-graded quizzes locked until parent lesson is complete
-- 🏆 Gamification — XP, levels, daily streaks (server-tracked), achievement badges, grade leaderboard
-- 💳 M-Pesa subscriptions: *Primary KSh 499 · Junior KSh 899 · Senior KSh 1,499/mo*
-- 🆓 7-day free trial on signup with full subscription lifecycle management
+-  Grade-filtered lesson browser with Markdown rendering and completion tracking
+-  Auto-graded quizzes locked until parent lesson is complete
+-  Gamification — XP, levels, daily streaks (server-tracked), achievement badges, grade leaderboard
+-  M-Pesa subscriptions: *Primary KSh 499 · Junior KSh 899 · Senior KSh 1,499/mo*
+-  7-day free trial on signup with full subscription lifecycle management
 
 **Admin Panel (Role-Based):**
 
@@ -92,7 +92,7 @@ Tusome delivers CBC-aligned structured lessons, interactive quizzes, and a gamif
 
 ---
 
-### 🏠 Wooden Houses Kenya — Marketing Site + Admin Dashboard
+###  Wooden Houses Kenya — Marketing Site + Admin Dashboard
 
 > *B2B web platform for a sustainable housing company in Kenya*
 
@@ -103,16 +103,16 @@ A dual-application system — a polished public marketing site and a private adm
 **Public Site:** Hero · Portfolio/Gallery · Pricing tiers · Lead capture · Newsletter signup · Testimonials · FAQs · Mobile-first responsive
 
 **Admin Dashboard:**
-- 📇 **Contact CRM** — Pipeline tracking (new → contacted → qualified → closed), internal notes, follow-up reminders
-- 📝 **Quote Builder** — Line-item editor, discount logic (server-side only), A4 PDF output, SMTP email delivery
-- 📰 **Newsletter** — Subscriber list, bulk actions, segmentation
-- 🔐 **Auth** — JWT with HttpOnly Secure cookies, session management
+-  **Contact CRM** — Pipeline tracking (new → contacted → qualified → closed), internal notes, follow-up reminders
+-  **Quote Builder** — Line-item editor, discount logic (server-side only), A4 PDF output, SMTP email delivery
+-  **Newsletter** — Subscriber list, bulk actions, segmentation
+-  **Auth** — JWT with HttpOnly Secure cookies, session management
 
 **Architecture highlight:** Single Next.js build routes `woodenhouseskenya.com` (marketing) and `admin.woodenhouseskenya.com` (dashboard) via middleware-based auth — zero duplication, clean separation.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -169,7 +169,7 @@ A dual-application system — a polished public marketing site and a private adm
 
 ---
 
-## 🧠 Engineering Philosophy
+##  Engineering Philosophy
 
 ```
 > Ship real systems, not demos.
@@ -183,7 +183,7 @@ I don't over-engineer early. I make pragmatic architectural choices that let sys
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -197,13 +197,13 @@ I don't over-engineer early. I make pragmatic architectural choices that let sys
 
 ---
 
-## 🤝 Let's Build Something
+##  Let's Build Something
 
 I'm open to:
 
-- 🏢 **Senior engineering roles** at product companies building for Africa
-- 🤝 **Technical consulting** — architecture reviews, SaaS buildouts, M-Pesa integrations, KRA eTIMS
-- 🚀 **Co-founding** — if you have a strong problem and need a technical co-founder
+-  **Senior engineering roles** at product companies building for Africa
+-  **Technical consulting** — architecture reviews, SaaS buildouts, M-Pesa integrations, KRA eTIMS
+-  **Co-founding** — if you have a strong problem and need a technical co-founder
 
 <div align="center">
 
